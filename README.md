@@ -4,7 +4,7 @@ Projeto Integrador em Computação I-PJI110-0024 - UNIVESP
 ### Nota importante
 Este projeto esta em desenvolvimento.
 
-### Estas são as tecnologias  pacotes de código aberto:
+### Estas são as tecnologias usadas no projeto do código aberto:
 
 
 1. [Composer](https://getcomposer.org/)
