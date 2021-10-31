@@ -29,6 +29,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 ## Protótipo do projeto
+Este é o protótipo principal da Landing page, do projeto proposto.
 
-[protótipo](https://github.com/nildoeti/VivaAVidaNoCampo/blob/main/prototipo/prototipo-da-pagina-principal.jpeg)
+![protótipo](./prototipo/prototipo-da-pagina-principal.jpeg)
 
