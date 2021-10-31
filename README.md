@@ -30,5 +30,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Protótipo do projeto
 
-[protótipo](../prototipo/prototipo-da-pagina-principal.jpeg)
+[protótipo](https://github.com/nildoeti/VivaAVidaNoCampo/blob/main/prototipo/prototipo-da-pagina-principal.jpeg)
 
