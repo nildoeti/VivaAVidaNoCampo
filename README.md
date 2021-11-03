@@ -1,5 +1,5 @@
 # VivaAVidaNoCampo
-Projeto Integrador em Computação I-PJI110-0024 - UNIVESP
+Projeto Integrador em Computação I-PJI110-0024 - semestre 4 - UNIVESP
 
 ### Nota importante
 Este projeto esta em desenvolvimento.
