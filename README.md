@@ -20,6 +20,9 @@ Este projeto esta em desenvolvimento.
 ### Template do projeto
 [Go](https://wordpress.org/themes/go/) Version: 1.4.4
 
+### Framework
+[Redux Framework](https://old.redux.io/)
+
 
 
 ### Termos de licença do Wordpress
