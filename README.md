@@ -15,7 +15,7 @@ Este projeto esta em desenvolvimento.
 6. [PostCSS](https://postcss.org/)
 7. [TGM Plugin Activation](http://tgmpluginactivation.com/)
 8. [WordPress](https://wordpress.org/)
-9. [Postgresql](https://www.postgresql.org)
+9. [MySQL](https://www.mysql.com/)
 
 ### Template do projeto
 [Go](https://wordpress.org/themes/go/) Version: 1.4.4
